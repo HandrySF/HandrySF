@@ -1,6 +1,6 @@
 <div align="center">
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/HandrySF/count.svg" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/HandrySF&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false"/>
   <br/>
 </div>
 <div>
