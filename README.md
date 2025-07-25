@@ -1,6 +1,6 @@
 <div align="center">
   <p>Visitor count</p>
-  <img src="https://img.shields.io/badge/visitors-1000-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/1000-red?style=flat-square" />
   <br/>
 </div>
 <div>
