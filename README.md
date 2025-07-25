@@ -1,8 +1,8 @@
 <div align="center">
   <p>Visitor count</p>
-  <img src="https://img.shields.io/badge/1000-red?style=flat-square" />
-  <br/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HandrySF.HandrySF" alt="Visitas"/>
 </div>
+
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=HandrySF&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HandrySF&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
